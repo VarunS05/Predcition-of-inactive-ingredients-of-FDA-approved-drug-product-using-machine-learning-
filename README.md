@@ -1,1 +1,2 @@
 # Predcition-of-inactive-ingredients-of-FDA-approved-drug-product-using-machine-learning-
+This repository presents a machine learning approach to predict the inactive ingredients of FDA-approved drug products. By leveraging data on drug formulations and chemical properties, the model aims to assist in the identification and characterization of inactive ingredients used in pharmaceutical formulations.
